@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josué Castillo
 - 👀 I’m interested in Video Games, movies and TV series
 - 🌱 I’m currently learning HTML, CSS, JS, Springboot and .NET
-- 💻 I’m looking to collaborate on projects with technologies like .NET and web apps
+- 💻 I’m looking to collaborate on projects with .NET
 - 📫 How to reach me: jcastillor1104@gmail.com
 
 <!---
